@@ -1,4 +1,4 @@
-"""ex01 exercise. hype machine"""
+"""ex01 exercise. hype machine."""
 __author__ = "730214639"
 
 name: str = input("What is your name? ")
