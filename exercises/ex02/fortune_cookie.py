@@ -11,7 +11,6 @@ __author__ = "730214639"
 # It will evaluate to an int value >= 1 and <= 100. 
 from random import randint
 
-
 # Begin your solution here...
 
 fortune: int = int(randint(1, 4))
